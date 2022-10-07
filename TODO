@@ -1,4 +1,11 @@
 TODO for sobek tool
 
-* Test 
-** Test
+Goal: being exhaustive and precise on the assessment of permissions and roles for a user and accesses on a resource 
+
+- List all applications, SP, SA, managed identities related to a project
+- List all resources to which they have access 
+- List all the resources of the project
+- Find and verify all the network / infrastructure to which they have access 
+- Have a better understanding of all the roles associated to a subscription
+- Manage the information present on containers 
+
